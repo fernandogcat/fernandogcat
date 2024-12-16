@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hola 👋
 
 🕹️ freelance game developer
 
 👾 working on a match-3 deckbuilder roguelite
 
-🤙 organizer of @bcngamecreators.bsky.social, and a
+🤙 organizer of https://www.meetup.com/barcelona-game-creators/, and a
 
 ⛺️ game maker coliving camp in nature https://sende.co/upupa
 
