@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/fernandogcat">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🔗 <a href="https://fernandog.cat">3D portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🔗 <a href="https://linktr.ee/fernandog.cat">linktr.ee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a target="_blank" href="https://www.linkedin.com/in/fernandogcat">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a target="_blank" href="https://fernandog.cat">3D portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a target="_blank" href="https://linktr.ee/fernandog.cat">linktr.ee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
