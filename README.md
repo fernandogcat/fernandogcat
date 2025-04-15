@@ -1,34 +1,21 @@
-# ¡Hola! 👋
+<h1 align="center">
+¡Hola! 👋
+</h1>
 
-🕹️ freelance creative developer & game programmer
-
-👾 working on TROOOPS a match-3 deckbuilder roguelite game
-
-🤙 also organize events like https://www.meetup.com/barcelona-game-creators/, and
-
-⛺️ Upupa a game maker coliving camp in nature https://sende.co/upupa
-
-🤸 sometimes I hang from a trapeze
+<p align="center">🕹️ freelance creative developer & game programmer</p>
+<p align="center">👾 working on TROOOPS a match-3 deckbuilder roguelite game</p>
+<p align="center">🤙 also organize events like https://www.meetup.com/barcelona-game-creators/, and</p>
+<p align="center">⛺️ Upupa a game maker coliving camp in nature https://sende.co/upupa</p>
+<p align="center">🤸 sometimes I hang from a trapeze</p>
 
 ---
 
-Passionate about making personal and commercial games, exploring creative coding experiments and trying new technologies and tools. Always open to exciting new projects. If you've got a cool idea or opportunity, let's talk!
+<p align="center">Passionate about making personal and commercial games, exploring creative coding experiments and trying new technologies and tools.<br />Always open to exciting new projects. If you've got a cool idea or opportunity, let's talk!</p>
 
-🔗 [3D portfolio](https://fernandog.cat)
+---
 
-🔗 [linktr.ee](https://linktr.ee/fernandog.cat)
-
-<!--
-**fernandogcat/fernandogcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/fernandogcat">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://fernandog.cat">3D portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://linktr.ee/fernandog.cat">linktr.ee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
