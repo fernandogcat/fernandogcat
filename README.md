@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center">Passionate about making personal and commercial games, exploring creative coding experiments and trying new technologies and tools.<br />Always open to exciting new projects. If you've got a cool idea or opportunity, let's talk!</p>
+<p align="center">Passionate about making personal and commercial games, exploring creative coding experiments and trying new technologies.<br />Always open to exciting new projects. If you've got a cool idea or opportunity, let's talk!</p>
 
 ---
 
