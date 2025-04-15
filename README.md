@@ -1,5 +1,5 @@
 <h1 align="center">
-¡Hola! 👋
+¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <p align="center">🕹️ freelance creative developer & game programmer</p>
