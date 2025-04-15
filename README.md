@@ -12,9 +12,11 @@
 
 ---
 
-🔗 https://fernandog.cat
+Passionate about making personal and commercial games, exploring creative coding experiments and trying new technologies and tools. Always open to exciting new projects. If you've got a cool idea or opportunity, let's talk!
 
-🔗 https://linktr.ee/fernandog.cat
+🔗 [3D portfolio](https://fernandog.cat)
+
+🔗 [linktr.ee](https://linktr.ee/fernandog.cat)
 
 <!--
 **fernandogcat/fernandogcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
