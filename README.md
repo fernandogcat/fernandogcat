@@ -1,12 +1,12 @@
-## Hola 👋
+# ¡Hola! 👋
 
-🕹️ freelance game developer
+🕹️ freelance creative developer & game programmer
 
-👾 working on a match-3 deckbuilder roguelite
+👾 working on TROOOPS a match-3 deckbuilder roguelite game
 
-🤙 organizer of https://www.meetup.com/barcelona-game-creators/, and a
+🤙 also organize events like https://www.meetup.com/barcelona-game-creators/, and
 
-⛺️ game maker coliving camp in nature https://sende.co/upupa
+⛺️ Upupa a game maker coliving camp in nature https://sende.co/upupa
 
 🤸 sometimes I hang from a trapeze
 
